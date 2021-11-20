@@ -1,0 +1,645 @@
+Category	Class	Country	Dates	Race
+Men Elite	CRTP - Pro Criterium	Monaco	28-Nov-21	MONACO BIKING
+Men Under 23	1.2 - 1 day - Class 2	Colombia	01 Dec - 03 Dec 2021	Pan American Youth Games
+Women Under 23	1.2 - 1 day - Class 2	Colombia	01 Dec - 03 Dec 2021	Pan American Youth Games
+Men Elite	2.1 - Stages - Class 1	Thailand	01 Dec - 06 Dec 2021	The Princess Maha Chakri Sirindhorn's Cup Tour of Thailand
+Women Elite	2.2 - Stages - Class 2	Thailand	08 Dec - 10 Dec 2021	The Princess Maha Chackri Sirindhorn's Cup "Women's Tour of Thailand"
+Men Elite	2.2 - Stages - Class 2	Ecuador	08 Dec - 15 Dec 2021	Vuelta Ciclista al Ecuador
+Men Elite	2.2 - Stages - Class 2	Mauritania	14 Dec - 18 Dec 2021	Tour du Sahel
+Men Elite	2.2 - Stages - Class 2	Malaysia	15 Dec - 19 Dec 2021	Jelajah Malaysia
+Men Junior	CN - National Championships	Myanmar	16 Dec - 17 Dec 2021	National Road Championships - Myanmar
+Men Elite	CN - National Championships	Morocco	17 Dec - 19 Dec 2021	National Road Championships - Marocco
+Men Elite	CN - National Championships	Uruguay	18-Dec-21	National Road Championships - Uruguay (ITT)
+Men Elite	2.2 - Stages - Class 2	New Zealand	05 Jan - 09 Jan 2022	New Zealand Cycle Classic
+Women Elite	2.2 - Stages - Class 2	Malaysia	05 Jan - 10 Jan 2022	Le Tour de Femina Malaysia
+Men Elite	CN - National Championships	Australia	12 Jan - 16 Jan 2022	National Road Championships - Australia
+Men Elite	2.Pro - Stages - ProSeries	Malaysia	16 Jan - 23 Jan 2022	Le Tour de Langkawi
+Men Elite	2.2 - Stages - Class 2	Venezuela	16 Jan - 23 Jan 2022	Vuelta al Tachira en Bicicleta
+Men Elite	2.1 - Stages - Class 1	Gabon	17 Jan - 23 Jan 2022	La Tropicale Amissa Bongo
+Men Elite	1.2 - 1 day - Class 2	Kuwait	19-Jan-22	KUWAIT CHALENGE 1
+Men Elite	1.2 - 1 day - Class 2	Kuwait	21-Jan-22	KUWAIT CYCLING LEAGUE 1
+Men Elite	1.2 - 1 day - Class 2	Kuwait	22-Jan-22	KUWAIT CYCLING LEAGUE 2
+Men Elite	1.2 - 1 day - Class 2	Spain	23-Jan-22	Clàssica Comunitat Valenciana 1969 - Gran Premi València
+Men Elite	1.1 - 1 day - Class 1	Spain	26-Jan-22	Trofeo Calvia
+Men Elite	1.1 - 1 day - Class 1	Spain	27-Jan-22	Trofeo Serra de Tramuntana (Lloseta - Deia)
+Men Elite	CN - National Championships	Colombia	27 Jan - 30 Jan 2022	National Road Championships - Colombia
+Men Elite	1.1 - 1 day - Class 1	Spain	28-Jan-22	Trofeo Pollença - Port d' Andratx
+Men Elite	2.2 - Stages - Class 2	United Arab Emirates	28 Jan - 01 Feb 2022	Tour of Sharjah
+Men Elite	1.1 - 1 day - Class 1	Spain	29-Jan-22	Trofeo Alcudia - Port D' Alcudia
+Men Elite	1.1 - 1 day - Class 1	France	30-Jan-22	Grand Prix Cycliste de Marseille La Marseillaise
+Men Elite	1.2 - 1 day - Class 2	Turkey	30-Jan-22	Grand Prix Megasaray
+Men Elite	1.1 - 1 day - Class 1	Spain	30-Jan-22	Trofeo Playa de Palma - Palma
+Men Elite	2.Pro - Stages - ProSeries	Argentina	30 Jan - 06 Feb 2022	Vuelta a San Juan Internacional
+Men Elite	CN - National Championships	Qatar	01 Feb - 04 Feb 2022	National Road Championships - Qatar
+Men Elite	2.1 - Stages - Class 1	Saudi Arabia	01 Feb - 05 Feb 2022	Saudi Tour
+Men Elite	2.1 - Stages - Class 1	France	02 Feb - 06 Feb 2022	Etoile de Bessèges - Tour du Gard
+Men Elite	2.Pro - Stages - ProSeries	Spain	02 Feb - 06 Feb 2022	Volta a la Comunitat Valenciana
+Men Elite	2.2 - Stages - Class 2	Mali	03 Feb - 07 Feb 2022	TOUR DU MALI
+Men Elite	CN - National Championships	Namibia	04 Feb - 06 Feb 2022	National Road Championships - Namibia
+Men Elite	1.2 - 1 day - Class 2	Turkey	5-Feb-22	Grand Prix Alanya
+Women Elite	1.2 - 1 day - Class 2	Turkey	6-Feb-22	Grand Prix Velo Manavgat
+Women Elite	1.1 - 1 day - Class 1	Spain	6-Feb-22	Vuelta CV Feminas
+Men Elite	2.1 - Stages - Class 1	Colombia	08 Feb - 13 Feb 2022	Tour Colombia
+Men Elite	2.2 - Stages - Class 2	Argentina	09 Feb - 13 Feb 2022	Vuelta del Porvenir San Luis
+Men Elite	2.1 - Stages - Class 1	Turkey	10 Feb - 13 Feb 2022	Tour of Antalya
+Men Elite	2.Pro - Stages - ProSeries	France	10 Feb - 13 Feb 2022	Tour de la Provence
+Men Elite	1.2 - 1 day - Class 2	Kuwait	11-Feb-22	PAS CYCLING ROAD RACE
+Men Elite	CN - National Championships	New Zealand	11 Feb - 13 Feb 2022	National Road Championships - New Zealand (Elite)
+Men Elite	CN - National Championships	South Africa	11 Feb - 13 Feb 2022	National Road Championships - South Africa
+Men Elite	1.2 - 1 day - Class 2	Kuwait	12-Feb-22	KUWAIT CHALENGE 2
+Men Elite	1.1 - 1 day - Class 1	Spain	12-Feb-22	Vuelta Ciclista a la Region de Murcia Costa Calida
+Men Elite	1.1 - 1 day - Class 1	Spain	14-Feb-22	Jaén Paraiso Interior
+Men Elite	1.2 - 1 day - Class 2	Kuwait	14-Feb-22	KUWAIT CYCLING ROAD RACE 1
+Men Elite	1.2 - 1 day - Class 2	Kuwait	15-Feb-22	KUWAIT CYCLING ROAD RACE 2
+Men Elite	2.Pro - Stages - ProSeries	Portugal	16 Feb - 20 Feb 2022	Volta ao Algarve em Bicicleta
+Men Elite	2.Pro - Stages - ProSeries	Spain	16 Feb - 20 Feb 2022	Vuelta a Andalucia Ruta Ciclista Del Sol
+Women Elite	2.1 - Stages - Class 1	Spain	17 Feb - 20 Feb 2022	Setmana Valenciana-Volta Comunitat Valenciana Fémines
+Men Elite	2.1 - Stages - Class 1	France	18 Feb - 20 Feb 2022	Tour des Alpes Maritimes et du Var
+Men Elite	CN - National Championships	Ecuador	18 Feb - 20 Feb 2022	National Road Championships - Ecuador
+Men Elite	1.2 - 1 day - Class 2	Turkey	19-Feb-22	Grand Prix Velo Alanya
+Women Elite	1.2 - 1 day - Class 2	Turkey	19-Feb-22	Grand Prix Velo Alanya
+Women Elite	1.2 - 1 day - Class 2	Turkey	20-Feb-22	Grand Prix Justiniano Race
+Men Elite	1.2 - 1 day - Class 2	Turkey	20-Feb-22	Grand Prix Justiniano Race
+Men Elite	2.UWT - Stages - UCI WorldTour	United Arab Emirates	20 Feb - 26 Feb 2022	UAE Tour
+Men Elite	2.1 - Stages - Class 1	Rwanda	20 Feb - 27 Feb 2022	Tour du Rwanda
+Men Elite	2.1 - Stages - Class 1	Spain	24 Feb - 27 Feb 2022	Gran Camiño
+Men Elite	2.2 - Stages - Class 2	South Africa	25 Feb - 27 Feb 2022	Tour of Limpopo
+Men Elite	1.UWT - 1 day - UCI WorldTour	Belgium	26-Feb-22	Omloop Het Nieuwsblad Elite
+Men Elite	1.Pro - 1 day - ProSeries	France	26-Feb-22	Faun-Ardèche Classic
+Women Elite	1.Pro - 1 day - ProSeries	Belgium	26-Feb-22	Omloop Het Nieuwsblad-vrouwen elite / Circuit Het Nieuwsblad-Femmes Elite
+Women Elite	1.1 - 1 day - Class 1	Belgium	27-Feb-22	Craywinckelhof - Omloop van het Hageland
+Men Junior	1.1 - 1 day - Class 1	Belgium	27-Feb-22	Kuurne - Brussel - Kuurne Juniors
+Men Elite	1.Pro - 1 day - ProSeries	Belgium	27-Feb-22	Kuurne - Bruxelles - Kuurne
+Men Elite	1.Pro - 1 day - ProSeries	France	27-Feb-22	Drome Classic
+Women Elite	1.1 - 1 day - Class 1	Belgium	1-Mar-22	Le Samyn des Dames
+Men Elite	1.1 - 1 day - Class 1	Belgium	1-Mar-22	Le Samyn
+Men Elite	1.2 - 1 day - Class 2	Croatia	2-Mar-22	Trofej Umag - Umag Trophy
+Men Elite	1.Pro - 1 day - ProSeries	Italy	2-Mar-22	Trofeo Laigueglia
+Men Junior	2.1 - Stages - Class 1	Turkey	3-Mar-22	Manavgat Side Junior (ITT)
+Men Junior	2.1 - Stages - Class 1	Turkey	4-Mar-22	Manavgat Side Junior (IRR)
+Men Elite	1.2 - 1 day - Class 2	Kuwait	4-Mar-22	Liberation of Kuwait 1
+Men Elite	CN - National Championships	United Arab Emirates	04 Mar - 05 Mar 2022	National Road Championships - United Arab Emirates (ITT)
+Women Elite	2.1 - Stages - Class 1	Netherlands	04 Mar - 06 Mar 2022	Bloeizone Fryslan
+Men Elite	1.2 - 1 day - Class 2	Netherlands	5-Mar-22	Craft Ster van Zwolle
+Men Elite	1.2 - 1 day - Class 2	Turkey	5-Mar-22	Grand Prix Gazipasa
+Women Elite	1.2 - 1 day - Class 2	Turkey	5-Mar-22	Grand Prix Gazipasa
+Men Elite	1.2 - 1 day - Class 2	Kuwait	5-Mar-22	Liberation of Kuwait 2
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	Italy	5-Mar-22	Strade Bianche
+Men Elite	1.UWT - 1 day - UCI WorldTour	Italy	5-Mar-22	Strade Bianche
+Men Elite	1.2 - 1 day - Class 2	France	6-Mar-22	Grand Prix de la Ville de Lillers Souvenir Bruno Comini
+Men Elite	1.2 - 1 day - Class 2	Turkey	6-Mar-22	Grand Prix Mediterrennean
+Women Elite	1.2 - 1 day - Class 2	Turkey	6-Mar-22	Grand Prix Mediterrennean
+Men Elite	1.2 - 1 day - Class 2	Netherlands	6-Mar-22	Bloeizone Elfsteden Fryslan
+Men Elite	1.1 - 1 day - Class 1	Belgium	6-Mar-22	Grote prijs Jean - Pierre Monseré
+Men Elite	1.2 - 1 day - Class 2	Croatia	6-Mar-22	Trofej Poreč - Poreč Trophy
+Men Elite	2.UWT - Stages - UCI WorldTour	France	06 Mar - 13 Mar 2022	Paris-Nice
+Men Elite	2.UWT - Stages - UCI WorldTour	Italy	07 Mar - 13 Mar 2022	Tirreno-Adriatico
+Women Elite	1.1 - 1 day - Class 1	Belgium	9-Mar-22	GP Oetingen
+Men Elite	2.2 - Stages - Class 2	Croatia	10 Mar - 13 Mar 2022	Istarsko Proljeće - Istrian Spring Trophy
+Women Elite	1.2 - 1 day - Class 2	Netherlands	11-Mar-22	Drentse Acht van Westerveld
+Men Under 23	CN - National Championships	United Arab Emirates	11 Mar - 18 Mar 2022	National Road Championships - United Arab Emirates (IRR)
+Men Junior	1.1 - 1 day - Class 1	Belgium	12-Mar-22	Danilith Nokere Koerse
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	Netherlands	12-Mar-22	Miron Ronde van Drenthe
+Men Elite	2.2 - Stages - Class 2	Greece	12 Mar - 13 Mar 2022	South Aegean Tour
+Men Elite	1.1 - 1 day - Class 1	Netherlands	13-Mar-22	Albert Achterhes Profronde van Drenthe 
+Men Elite	1.2 - 1 day - Class 2	Netherlands	13-Mar-22	Dorpenomloop Rucphen
+Men Elite	1.2 - 1 day - Class 2	Portugal	13-Mar-22	Classica da Arrabida - Cyclin'Portugal
+Men Elite	2.1 - Stages - Class 1	Taiwan	13 Mar - 17 Mar 2022	Tour de Taiwan
+Men Elite	1.Pro - 1 day - ProSeries	Belgium	16-Mar-22	Danilith Nokere Koerse
+Women Elite	1.Pro - 1 day - ProSeries	Belgium	16-Mar-22	Danilith Nokere Koerse
+Men Elite	1.Pro - 1 day - ProSeries	Italy	16-Mar-22	Milano - Torino
+Men Elite	2.2 - Stages - Class 2	Portugal	16 Mar - 20 Mar 2022	Volta ao Alentejo
+Men Elite	2.2 - Stages - Class 2	Netherlands	16 Mar - 20 Mar 2022	Olympia's Tour
+Men Junior	2.1 - Stages - Class 1	Turkey	17-Mar-22	Velo Alanya Junior (ITT)
+Men Elite	1.Pro - 1 day - ProSeries	France	17-Mar-22	Grand Prix de Denain - Porte du Hainaut
+Men Junior	2.1 - Stages - Class 1	Turkey	18-Mar-22	Velo Alanya Junior (IRR)
+Men Elite	1.Pro - 1 day - ProSeries	Belgium	18-Mar-22	Bredene Koksijde Classic
+Men Under 23	1.2U - 1 day - Class 2 - U23	Belgium	18-Mar-22	Youngster Coast Challenge
+Men Elite	CN - National Championships	Argentina	18 Mar - 20 Mar 2022	National Road Championships - Argentina
+Men Elite	1.2 - 1 day - Class 2	Turkey	19-Mar-22	Grand Prix Manavgat Side
+Men Elite	1.1 - 1 day - Class 1	France	19-Mar-22	Classic Loire Atlantique
+Men Elite	1.UWT - 1 day - UCI WorldTour	Italy	19-Mar-22	Milano-Sanremo
+Men Elite	1.1 - 1 day - Class 1	France	20-Mar-22	Cholet - Pays de la Loire
+Men Elite	1.2 - 1 day - Class 2	Greece	20-Mar-22	International Rhodes Grand Prix
+Men Elite	1.1 - 1 day - Class 1	Italy	20-Mar-22	Per Sempre Alfredo
+Men Elite	1.2 - 1 day - Class 2	Italy	20-Mar-22	Popolarissima
+Women Junior	1.Ncup - 1 day - Class Nations' Cup	Italy	20-Mar-22	Piccolo Trofeo Alfredo Binda - Valli del Verbano
+Men Elite	1.2 - 1 day - Class 2	Turkey	20-Mar-22	Grand Prix Gündoğmuş
+Men Junior	1.1 - 1 day - Class 1	Belgium	20-Mar-22	Guido Reybrouck Classic
+Men Elite	1.2 - 1 day - Class 2	Slovenia	20-Mar-22	GP Slovenian Istria
+Men Junior	1.1 - 1 day - Class 1	France	20-Mar-22	Bernaudeau Junior
+Men Elite	1.2 - 1 day - Class 2	Belgium	20-Mar-22	Grand Prix Criquielion
+Women Elite	1.1 - 1 day - Class 1	Belgium	20-Mar-22	Omloop van de Westhoek - Memorial Stive Vermaut
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	Italy	20-Mar-22	Trofeo Alfredo Binda - Comune di Cittiglio
+Men Elite	2.Pro - Stages - ProSeries	China	20 Mar - 27 Mar 2022	Tour of Hainan
+Men Elite	2.2 - Stages - Class 2	France	21 Mar - 27 Mar 2022	Tour de Normandie
+Men Elite	2.UWT - Stages - UCI WorldTour	Spain	21 Mar - 27 Mar 2022	Volta Ciclista a Catalunya
+Men Elite	2.1 - Stages - Class 1	Italy	22 Mar - 26 Mar 2022	Settimana Internazionale Coppi e Bartali
+Men Elite	1.UWT - 1 day - UCI WorldTour	Belgium	23-Mar-22	Oxyclean Classic Brugge-De Panne
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	Belgium	24-Mar-22	Oxyclean Classic Brugge-De Panne
+Men Elite	1.2 - 1 day - Class 2	Slovenia	24-Mar-22	GP Vipava Valley & Crossborder Goriška
+Men Elite	2.2 - Stages - Class 2	Greece	24 Mar - 27 Mar 2022	International Tour of Rhodes
+Men Elite	1.UWT - 1 day - UCI WorldTour	Belgium	25-Mar-22	E3 Saxo Bank Classic
+Men Elite	CN - National Championships	Bahrain	25 Mar - 26 Mar 2022	National Road Championships - Bahrain
+Men Elite	CN - National Championships	Oman	25 Mar - 01 Apr 2022	National Road Championships - Oman
+Men Elite	1.UWT - 1 day - UCI WorldTour	Belgium	27-Mar-22	Gent-Wevelgem in Flanders Fields
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	Belgium	27-Mar-22	Gent-Wevelgem In Flanders Fields
+Men Elite	1.2 - 1 day - Class 2	Slovenia	27-Mar-22	GP Adria Mobil
+Men Elite	1.1 - 1 day - Class 1	France	27-Mar-22	La Roue Tourangelle Centre Val de Loire - Trophée Groupama Paris Val de Loire
+Men Under 23	1.2U - 1 day - Class 2 - U23	Italy	27-Mar-22	Tr. Città di S. Vendemiano - GP Industria & Commercio
+Men Elite	1.Pro - 1 day - ProSeries	Italy	27-Mar-22	GP Industria & Artigianato
+Men Junior	1.Ncup - 1 day - Class Nations' Cup	Belgium	27-Mar-22	Gent-Wevelgem / Grote Prijs A. Noyelle-Ieper
+Women Junior	1.Ncup - 1 day - Class Nations' Cup	Belgium	27-Mar-22	Gent-Wevelgem
+Men Under 23	1.Ncup - 1 day - Class Nations' Cup	Belgium	27-Mar-22	Gent-Wevelgem / Kattekoers-Ieper
+Women Elite	CN - National Championships	Saudi Arabia	29 Mar - 01 Apr 2022	National Road Championships - Saudi Arabia
+Women Elite	1.1 - 1 day - Class 1	Belgium	30-Mar-22	Dwars door Vlaanderen - A travers la Flandre
+Men Elite	1.UWT - 1 day - UCI WorldTour	Belgium	30-Mar-22	Dwars door Vlaanderen - A travers la Flandre
+Men Under 23	2.2U - Stages - Class 2 - U23	Belgium	31 Mar - 03 Apr 2022	Le Triptyque des Monts et Châteaux
+Men Elite	1.1 - 1 day - Class 1	France	1-Apr-22	La Route Adélie de VItré
+Men Elite	2.1 - Stages - Class 1	Thailand	01 Apr - 06 Apr 2022	The Princess Maha Chakri Sirindhorns Cup Tour of Thailand
+Men Elite	1.Pro - 1 day - ProSeries	Spain	2-Apr-22	Gran Premio Miguel Indurain
+Men Elite	1.1 - 1 day - Class 1	Netherlands	2-Apr-22	Volta Limburg Classic
+Men Under 23	1.2U - 1 day - Class 2 - U23	Italy	3-Apr-22	Trofeo Piva
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	Belgium	3-Apr-22	Ronde van Vlaanderen - Tour des Flandres
+Men Elite	1.UWT - 1 day - UCI WorldTour	Belgium	3-Apr-22	Ronde van Vlaanderen - Tour des Flandres
+Men Elite	2.UWT - Stages - UCI WorldTour	Spain	04 Apr - 09 Apr 2022	Itzulia Basque Country
+Men Elite	2.1 - Stages - Class 1	France	05 Apr - 08 Apr 2022	Circuit Cycliste Sarthe - Pays de la Loire
+Men Elite	2.2 - Stages - Class 2	Turkey	05 Apr - 08 Apr 2022	Tour of Mevlana
+Women Elite	1.1 - 1 day - Class 1	Belgium	6-Apr-22	Scheldeprijs vrouwen elite
+Men Elite	1.Pro - 1 day - ProSeries	Belgium	6-Apr-22	Scheldeprijs
+Men Elite	2.2 - Stages - Class 2	France	07 Apr - 10 Apr 2022	Circuit des Ardennes
+Men Junior	2.1 - Stages - Class 1	Germany	08 Apr - 10 Apr 2022	Internationale Cottbuser Junioren-Etappenfahrt
+Women Elite	2.1 - Stages - Class 1	Thailand	08 Apr - 10 Apr 2022	The Princess Maha Chackri Sirindhorns Cup Womens Tour of Thailand
+Men Elite	2.2 - Stages - Class 2	Uruguay	08 Apr - 17 Apr 2022	Vuelta Ciclista del Uruguay
+Men Under 23	1.2U - 1 day - Class 2 - U23	Italy	9-Apr-22	Trofeo Edil c
+Men Elite	1.UWT - 1 day - UCI WorldTour	Netherlands	10-Apr-22	Amstel Gold Race
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	Netherlands	10-Apr-22	Amstel Gold Race Ladies Edition
+Men Elite	2.Pro - Stages - ProSeries	Turkey	10 Apr - 17 Apr 2022	Presidential Cycling Tour of Turkey
+Men Elite	1.1 - 1 day - Class 1	France	12-Apr-22	Paris - Camembert
+Men Elite	2.1 - Stages - Class 1	Italy	12 Apr - 15 Apr 2022	Giro di Sicilia - Tour of Sicily
+Women Elite	1.1 - 1 day - Class 1	Belgium	13-Apr-22	De Brabantse Pijl - La Flèche Brabançonne
+Men Elite	1.Pro - 1 day - ProSeries	Belgium	13-Apr-22	De Brabantse Pijl - La Flèche Brabançonne
+Men Elite	2.2 - Stages - Class 2	France	13 Apr - 17 Apr 2022	Tour du Loir et Cher
+Men Elite	1.1 - 1 day - Class 1	France	15-Apr-22	Classic Grand Besançon Doubs
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	France	16-Apr-22	Paris-Roubaix Femmes
+Men Elite	1.1 - 1 day - Class 1	France	16-Apr-22	Tour du Jura Cycliste
+Men Elite	1.2 - 1 day - Class 2	Netherlands	16-Apr-22	Arno Wallaard Memorial
+Men Under 23	1.2U - 1 day - Class 2 - U23	Belgium	16-Apr-22	Liège-Bastogne-Liège
+Men Elite	2.2 - Stages - Class 2	Montenegro	16 Apr - 17 Apr 2022	Adriatic Lustica Bay Montenegro Race
+Men Junior	1.Ncup - 1 day - Class Nations' Cup	France	17-Apr-22	Paris - Roubaix Juniors
+Women Elite	1.1 - 1 day - Class 1	France	17-Apr-22	Grand Prix Féminin de Chambéry
+Men Elite	1.UWT - 1 day - UCI WorldTour	France	17-Apr-22	Paris-Roubaix
+Women Elite	1.1 - 1 day - Class 1	Belgium	18-Apr-22	Ronde de Mouscron
+Men Under 23	1.2U - 1 day - Class 2 - U23	Italy	18-Apr-22	Giro del Belvedere
+Men Elite	2.Pro - Stages - ProSeries	Italy	18 Apr - 22 Apr 2022	Tour of the Alps
+Men Under 23	1.2U - 1 day - Class 2 - U23	Italy	19-Apr-22	G.P. Palio del Recioto - Trofeo C&F Resinatura Blocchi
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	Belgium	20-Apr-22	La Flèche Wallonne Féminine
+Men Elite	1.UWT - 1 day - UCI WorldTour	Belgium	20-Apr-22	La Flèche Wallonne
+Women Junior	2.Ncup - Stages - Class Nations' Cup	Netherlands	22 Apr - 24 Apr 2022	EPZ Omloop van Borsele
+Men Junior	CN - National Championships	New Zealand	22 Apr - 24 Apr 2022	National Road Championships - New Zealand (Juniors)
+Women Elite	1.1 - 1 day - Class 1	Netherlands	23-Apr-22	EPZ Omloop van Borsele
+Men Junior	2.1 - Stages - Class 1	Spain	23 Apr - 24 Apr 2022	XXVIII. GIPUZKOA KLASIKOA
+Men Junior	1.1 - 1 day - Class 1	Netherlands	24-Apr-22	EPZ Omloop van Borsele
+Men Elite	1.2 - 1 day - Class 2	United Kingdom	24-Apr-22	Rutland-Melton CiCLE Classic
+Men Elite	1.1 - 1 day - Class 1	Spain	24-Apr-22	Klasika Primavera de Amorebieta
+Men Elite	1.UWT - 1 day - UCI WorldTour	Belgium	24-Apr-22	Liège-Bastogne-Liège
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	Belgium	24-Apr-22	Liège-Bastogne-Liège Femmes
+Men Under 23	1.2U - 1 day - Class 2 - U23	Italy	25-Apr-22	Gran Premio della Liberazione
+Men Elite	2.2 - Stages - Class 2	France	25 Apr - 01 May 2022	Le Tour de Bretagne Cycliste
+Men Elite	2.2 - Stages - Class 2	Austria	26 Apr - 29 Apr 2022	EUREGIO Bodensee Rundfahrt
+Men Elite	2.UWT - Stages - UCI WorldTour	Switzerland	26 Apr - 01 May 2022	Tour de Romandie
+Men Elite	2.1 - Stages - Class 1	Greece	27 Apr - 30 Apr 2022	International Tour of Hellas
+Men Elite	2.2 - Stages - Class 2	United States	27 Apr - 01 May 2022	Tour of the Gila
+Women Elite	2.2 - Stages - Class 2	United States	27 Apr - 01 May 2022	Tour of the Gila
+Men Junior	2.1 - Stages - Class 1	Poland	28 Apr - 01 May 2022	La Coupe du President de la Ville de Grudziądz
+Women Elite	2.2 - Stages - Class 2	Czech Republic	28 Apr - 01 May 2022	Gracia
+Men Elite	1.2 - 1 day - Class 2	Poland	29-Apr-22	Grand Prix Nasielsk-Serock
+Women Elite	2.Pro - Stages - ProSeries	Luxembourg	29 Apr - 01 May 2022	Ceratizit Festival Elsy Jacobs
+Women Elite	2.1 - Stages - Class 1	Spain	29 Apr - 01 May 2022	Vuelta Ciclista Andalucia Ruta Del Sol
+Men Under 23	2.2U - Stages - Class 2 - U23	Poland	29 Apr - 03 May 2022	Carpathian Couriers Race in memory of Wacław Felczak
+Men Elite	1.2 - 1 day - Class 2	Netherlands	30-Apr-22	PWZ Zuidenveld Tour
+Men Elite	1.2 - 1 day - Class 2	Poland	30-Apr-22	Grand Prix Wyszków
+Women Junior	CN - National Championships	Belgium	1-May-22	National Road Championships - Belgium (ITT)
+Men Elite	1.2 - 1 day - Class 2	Poland	1-May-22	Memoriał Andrzeja Trochanowskiego
+Men Junior	1.1 - 1 day - Class 1	Czech Republic	1-May-22	Grand Prix West Bohemia
+Men Elite	1.2 - 1 day - Class 2	Italy	1-May-22	Circuito del Porto - Trofeo Arvedi
+Women Elite	1.2 - 1 day - Class 2	Belgium	1-May-22	Leiedal Koerse
+Men Junior	1.1 - 1 day - Class 1	Belgium	1-May-22	E3 Saxo Bank Classic
+Men Under 23	1.2U - 1 day - Class 2 - U23	Germany	1-May-22	Eschborn-Frankfurt
+Men Elite	1.UWT - 1 day - UCI WorldTour	Germany	1-May-22	Eschborn-Frankfurt
+Women Elite	2.1 - Stages - Class 1	France	03 May - 07 May 2022	Bretagne Ladies Tour CERATIZIT
+Men Elite	2.Pro - Stages - ProSeries	France	03 May - 08 May 2022	4 Jours de Dunkerque / Grand Prix des Hauts de France
+Men Elite	CN - National Championships	Cyprus	04 May - 08 May 2022	National Road Championships - Cyprus
+Men Junior	2.Ncup - Stages - Class Nations' Cup	Czech Republic	05 May - 08 May 2022	Course de la Paix Juniors
+Men Elite	2.2 - Stages - Class 2	Poland	06 May - 08 May 2022	CCC Tour - Grody Piastowskie
+Men Elite	2.UWT - Stages - UCI WorldTour	Italy	06 May - 29 May 2022	Giro d'Italia
+Men Elite	1.2 - 1 day - Class 2	Norway	7-May-22	Sundvolden GP
+Men Elite	2.2 - Stages - Class 2	Netherlands	7-May-22	Ronde van Overijssel
+Women Elite	1.1 - 1 day - Class 1	Belgium	7-May-22	GP Eco-Struct
+Women Junior	2.Ncup - Stages - Class Nations' Cup	France	07 May - 08 May 2022	Tour du Gévaudan Occitanie femmes
+Women Elite	1.1 - 1 day - Class 1	Belgium	8-May-22	Trofee Maarten Wynants
+Men Elite	1.2 - 1 day - Class 2	Belgium	8-May-22	Flèche Ardennaise
+Women Elite	1.1 - 1 day - Class 1	Spain	8-May-22	Gran Premio Ciudad de Eibar
+Men Junior	1.1 - 1 day - Class 1	Luxembourg	8-May-22	Grand Prix Bob Jungels
+Men Elite	1.2 - 1 day - Class 2	Norway	8-May-22	Ringerike GP
+Men Under 23	1.2U - 1 day - Class 2 - U23	Italy	8-May-22	Gran Premio Industrie del Marmo
+Women Elite	1.1 - 1 day - Class 1	Spain	10-May-22	Emakumeen Nafarroako Women's Elite Classics
+Women Elite	2.2 - Stages - Class 2	China	11 May - 13 May 2022	Touf of Zhoushan Island (Shengsi Stage)
+Men Elite	2.1 - Stages - Class 1	Hungary	11 May - 15 May 2022	Tour de Hongrie
+Men Elite	2.2 - Stages - Class 2	Ukraine	12 May - 15 May 2022	Tour de Lviv Region
+Women Elite	1.1 - 1 day - Class 1	France	13-May-22	La Classique Morbihan
+Women Elite	2.WWT - Stages - UCI Women’s WorldTour	Spain	13 May - 15 May 2022	Itzulia Women
+Women Elite	1.1 - 1 day - Class 1	France	14-May-22	Grand Prix du Morbihan Femmes
+Men Elite	1.Pro - 1 day - ProSeries	France	14-May-22	Grand Prix du Morbihan
+Women Elite	1.2 - 1 day - Class 2	Netherlands	14-May-22	ZLM Omloop der Kempen Ladies
+Men Junior	2.1 - Stages - Class 1	France	14 May - 15 May 2022	Tour de Gironde International
+Men Elite	1.Pro - 1 day - ProSeries	France	15-May-22	Tro-Bro Léon
+Men Junior	1.1 - 1 day - Class 1	Italy	15-May-22	G.P. Sportivi Sovilla - La Piccola Sanremo
+Men Elite	CRTP - Pro Criterium	Japan	15-May-22	International Criterium in Sakai
+Men Under 23	1.2U - 1 day - Class 2 - U23	France	15-May-22	Paris-Roubaix Espoirs
+Men Elite	2.1 - Stages - Class 1	Japan	15 May - 22 May 2022	Tour of Japan
+Women Elite	1.1 - 1 day - Class 1	Spain	17-May-22	Durango - Durango Emakumeen Saria
+Women Elite	2.2 - Stages - Class 2	France	18 May - 21 May 2022	Le Tour des Dames
+Men Elite	2.2 - Stages - Class 2	United States	19 May - 22 May 2022	Joe Martin Stage Race
+Women Elite	2.2 - Stages - Class 2	United States	19 May - 22 May 2022	Joe Martin Stage Race
+Women Elite	2.WWT - Stages - UCI Women’s WorldTour	Spain	19 May - 22 May 2022	Vuelta a Burgos Feminas
+Women Elite	1.1 - 1 day - Class 1	Netherlands	20-May-22	Veenendaal - Veenendaal Classic
+Men Junior	2.1 - Stages - Class 1	Netherlands	20 May - 22 May 2022	SPIE Internationale Juniorendriedaagse
+Men Elite	2.2 - Stages - Class 2	Sri Lanka	20 May - 22 May 2022	Sri Lanka T-Cup
+Men Elite	1.2 - 1 day - Class 2	Denmark	21-May-22	Grand Prix Herning
+Men Elite	1.1 - 1 day - Class 1	Netherlands	21-May-22	Veenendaal-Veenendaal Classic
+Women Elite	1.2 - 1 day - Class 2	Turkey	21-May-22	Grand Prix Kayseri Ladys
+Men Elite	1.1 - 1 day - Class 1	France	21-May-22	Tour du Finistère
+Men Junior	2.Ncup - Stages - Class Nations' Cup	France	21 May - 22 May 2022	Trophée Centre Morbihan
+Men Elite	1.1 - 1 day - Class 1	Germany	22-May-22	Rund um Köln
+Men Elite	1.2 - 1 day - Class 2	Denmark	22-May-22	Fyn Rundt - Tour of Funen
+Men Elite	1.1 - 1 day - Class 1	France	22-May-22	Boucles de l'Aulne - Châteaulin
+Men Elite	1.2 - 1 day - Class 2	Turkey	22-May-22	Grand Prix Kayseri
+Men Elite	1.2 - 1 day - Class 2	Slovenia	22-May-22	GP Gorenjska
+Men Elite	2.Pro - Stages - ProSeries	Norway	24 May - 29 May 2022	Tour of Norway
+Women Elite	2.Pro - Stages - ProSeries	Germany	24 May - 29 May 2022	Internationale LOTTO Thüringen Ladies Tour
+Men Elite	2.2 - Stages - Class 2	Luxembourg	25 May - 29 May 2022	Flèche du Sud
+Men Elite	2.2 - Stages - Class 2	France	25 May - 29 May 2022	Alpes Isère Tour
+Men Elite	1.1 - 1 day - Class 1	Belgium	26-May-22	Circuit de Wallonie
+Men Elite	2.1 - Stages - Class 1	Estonia	26 May - 28 May 2022	Tour of Estonia
+Men Elite	2.2 - Stages - Class 2	France	26 May - 29 May 2022	Tour de la Mirabelle
+Men Elite	2.Pro - Stages - ProSeries	France	26 May - 29 May 2022	Boucles de la Mayenne
+Men Junior	2.Ncup - Stages - Class Nations' Cup	Switzerland	26 May - 29 May 2022	Tour du Pays de Vaud
+Men Elite	CN - National Championships	Philippines	27 May - 29 May 2022	National Road Championships - Philippines
+Men Elite	2.2 - Stages - Class 2	Japan	27 May - 29 May 2022	Tour de Kumano
+Women Elite	2.WWT - Stages - UCI Women’s WorldTour	United Kingdom	27 May - 29 May 2022	RideLondon Classique
+Women Elite	1.2 - 1 day - Class 2	Turkey	28-May-22	Grand Prix Erciyes Ladys
+Women Elite	1.2 - 1 day - Class 2	Estonia	28-May-22	Ladies Tour of Estonia
+Men Elite	1.2 - 1 day - Class 2	Ukraine	28-May-22	Kyiv Cup
+Women Elite	1.2 - 1 day - Class 2	Ukraine	28-May-22	Kyiv Cup
+Men Under 23	2.Ncup - Stages - Class Nations' Cup	Poland	28 May - 29 May 2022	Orlen Nations Grand Prix
+Men Junior	CN - National Championships	Belgium	29-May-22	National Road Championships - Belgium (IRR)
+Men Elite	1.2 - 1 day - Class 2	Ukraine	29-May-22	Kyiv Green Race
+Women Elite	1.2 - 1 day - Class 2	Ukraine	29-May-22	Kyiv Green Race
+Men Elite	1.2 - 1 day - Class 2	Turkey	29-May-22	Grand Prix Erciyes
+Men Under 23	1.2U - 1 day - Class 2 - U23	Italy	29-May-22	Coppa della Pace - Trofeo F.lli Anelli
+Men Elite	1.1 - 1 day - Class 1	Belgium	29-May-22	Grote Prijs Marcel Kint
+Men Elite	1.2 - 1 day - Class 2	Ukraine	30-May-22	Kyiv Speed - Challenge
+Men Elite	CRTP - Pro Criterium	Italy	30-May-22	CYCLING STARS CRITERIUM BELLUNO
+Men Elite	CRTP - Pro Criterium	Italy	31-May-22	CYCLING STARS CRITERIUM VALDOBBIADENE
+Men Elite	1.1 - 1 day - Class 1	France	31-May-22	Mercan'Tour Classic Alpes-Maritimes
+Men Elite	1.2 - 1 day - Class 2	Italy	2-Jun-22	TrofeoAlcide Degasperi
+Men Elite	1.1 - 1 day - Class 1	Italy	2-Jun-22	Giro dell'Appennino
+Women Elite	1.1 - 1 day - Class 1	Canada	2-Jun-22	Chrono Féminin de la Gatineau
+Men Elite	2.2 - Stages - Class 2	France	02 Jun - 05 Jun 2022	Ronde de l'Oise
+Men Under 23	2.Ncup - Stages - Class Nations' Cup	Czech Republic	02 Jun - 05 Jun 2022	Course de la Paix Grand Prix Jeseníky
+Women Elite	1.1 - 1 day - Class 1	Canada	3-Jun-22	Tour de Gatineau
+Women Elite	CRTP - Pro Criterium	Netherlands	3-Jun-22	RSM Wealer Ronde
+Men Elite	2.2 - Stages - Class 2	Poland	03 Jun - 05 Jun 2022	Tour of Malopolska
+Men Elite	2.2 - Stages - Class 2	Colombia	03 Jun - 12 Jun 2022	Vuelta a Colombia
+Men Elite	1.1 - 1 day - Class 1	Belgium	4-Jun-22	Heylen Vastgoed Heistse Pijl
+Men Junior	1.1 - 1 day - Class 1	France	4-Jun-22	La Classique des Alpes Juniors
+Women Elite	1.2 - 1 day - Class 2	Netherlands	4-Jun-22	Salverda Omloop van de IJsseldelta
+Women Elite	1.2 - 1 day - Class 2	Turkey	4-Jun-22	Grand Prix Velo Erciyes Ladys
+Women Elite	2.2 - Stages - Class 2	Serbia	04 Jun - 05 Jun 2022	Belgrade GP Woman Tour
+Men Elite	1.2 - 1 day - Class 2	Belgium	5-Jun-22	Memorial Philippe Van Coningsloo
+Women Elite	1.1 - 1 day - Class 1	Belgium	5-Jun-22	Dwars door de Westhoek
+Men Elite	1.2 - 1 day - Class 2	Turkey	5-Jun-22	Grand Prix Velo Erciyes
+Men Junior	1.1 - 1 day - Class 1	Italy	5-Jun-22	Gran Premio dell'Arno
+Men Elite	1.Pro - 1 day - ProSeries	Belgium	5-Jun-22	Brussels Cycling Classic
+Women Elite	1.2 - 1 day - Class 2	France	5-Jun-22	Alpes Gresivaudan Classic
+Men Elite	2.UWT - Stages - UCI WorldTour	France	05 Jun - 12 Jun 2022	Critérium du Dauphiné
+Men Elite	1.2 - 1 day - Class 2	France	6-Jun-22	Paris - Troyes
+Men Elite	1.1 - 1 day - Class 1	Belgium	6-Jun-22	Ronde van Limburg
+Women Elite	2.WWT - Stages - UCI Women’s WorldTour	United Kingdom	06 Jun - 11 Jun 2022	Women's Tour
+Men Elite	2.2 - Stages - Class 2	Russia	08 Jun - 12 Jun 2022	Five Rings of Moscow
+Women Elite	2.2 - Stages - Class 2	Guatemala	08 Jun - 12 Jun 2022	Vuelta Internacional Femenina a Guatemala
+Men Elite	2.Pro - Stages - ProSeries	Netherlands	08 Jun - 12 Jun 2022	ZLM Tour
+Men Junior	2.Ncup - Stages - Class Nations' Cup	Germany	09 Jun - 12 Jun 2022	LVM Saarland Trofeo
+Men Elite	2.2 - Stages - Class 2	Austria	09 Jun - 12 Jun 2022	Oberösterreich Rundfahrt
+Men Under 23	2.2U - Stages - Class 2 - U23	Italy	09 Jun - 18 Jun 2022	Giro d'Italia Giovani Under 23
+Men Elite	1.1 - 1 day - Class 1	Switzerland	10-Jun-22	Grosser Preis des Kantons Aargau
+Men Junior	CN - National Championships	Costa Rica	10 Jun - 12 Jun 2022	National Road Championships - Costa Rica (Juniors)
+Men Elite	2.2 - Stages - Class 2	France	10 Jun - 12 Jun 2022	Tour d'Eure-et-Loir
+Men Elite	1.Pro - 1 day - ProSeries	Belgium	11-Jun-22	Dwars door het Hageland
+Men Under 23	CN - National Championships	Denmark	11 Jun - 12 Jun 2022	National Road Championships - Denmark (MU23)
+Men Elite	1.1 - 1 day - Class 1	Belgium	12-Jun-22	Elfstedenronde Brugge
+Women Elite	1.1 - 1 day - Class 1	Belgium	12-Jun-22	SPAR Flanders Diamond Tour
+Men Elite	2.UWT - Stages - UCI WorldTour	Switzerland	12 Jun - 19 Jun 2022	Tour de Suisse
+Men Elite	1.1 - 1 day - Class 1	France	14-Jun-22	Mont Ventoux Dénivelé Challenge
+Women Elite	1.2 - 1 day - Class 2	France	14-Jun-22	MONT VENTOUX DENIVELE CHALLENGES
+Men Elite	2.2 - Stages - Class 2	Canada	15 Jun - 19 Jun 2022	Tour de Beauce
+Men Elite	2.Pro - Stages - ProSeries	Belgium	15 Jun - 19 Jun 2022	Baloise Belgium Tour
+Men Elite	2.Pro - Stages - ProSeries	Slovenia	15 Jun - 19 Jun 2022	Tour of Slovenia
+Men Elite	2.2 - Stages - Class 2	Serbia	16 Jun - 19 Jun 2022	Tour de Serbie
+Men Elite	2.1 - Stages - Class 1	France	16 Jun - 19 Jun 2022	La Route d'Occitanie - La Dépêche du Midi
+Women Elite	CN - National Championships	Costa Rica	16 Jun - 19 Jun 2022	National Road Championships - Costa Rica
+Men Elite	CN - National Championships	Panama	17 Jun - 19 Jun 2022	National Road Championships - Panama
+Men Under 23	2.2U - Stages - Class 2 - U23	France	17 Jun - 19 Jun 2022	Tour du Pays de Montbéliard
+Men Elite	1.2 - 1 day - Class 2	Poland	18-Jun-22	Grand Prix Płock
+Men Junior	1.1 - 1 day - Class 1	Italy	18-Jun-22	Gran Premio Eccellenze Valli del Soligo (Cronosquadre)
+Women Elite	2.Pro - Stages - ProSeries	Switzerland	18 Jun - 21 Jun 2022	Tour de Suisse Women
+Men Elite	CN - National Championships	Israel	18 Jun - 25 Jun 2022	National Road Championships - Israel
+Men Under 23	CN - National Championships	Estonia	18 Jun - 26 Jun 2022	National Road Championships - Estonia
+Men Under 23	CN - National Championships	Latvia	18 Jun - 26 Jun 2022	National Road Championships - Latvia
+Men Elite	1.2 - 1 day - Class 2	Netherlands	19-Jun-22	Midden-Brabant Poort Omloop
+Men Junior	1.1 - 1 day - Class 1	Italy	19-Jun-22	TF GD Dorigo MO Biemmereti MO Ettore e Cristiano Floriani MO Emilio Mazzero
+Men Elite	1.2 - 1 day - Class 2	Poland	19-Jun-22	Grand Prix Płońsk
+Men Junior	CN - National Championships	Norway	19 Jun - 26 Jun 2022	National Road Championships - Norway
+Men Elite	CN - National Championships	El Salvador	19 Jun - 26 Jun 2022	National Road Championships - El Salvador
+Men Elite	CN - National Championships	Lebanon	19 Jun - 26 Jun 2022	National Road Championships - Lebanon
+Men Under 23	CN - National Championships	Lithuania	20 Jun - 26 Jun 2022	National Road Championships - Lithuania
+Men Junior	CN - National Championships	Spain	21 Jun - 26 Jun 2022	National Road Championships - Spain
+Men Junior	CN - National Championships	Ukraine	21 Jun - 26 Jun 2022	National Road Championships - Ukraine
+Men Elite	CN - National Championships	Iran	21 Jun - 27 Jun 2022	National Road Championships - Iran
+Men Elite	1.1 - 1 day - Class 1	Belgium	22-Jun-22	Halle-Ingooigem
+Women Under 23	CN - National Championships	Azerbaijan	22 Jun - 25 Jun 2022	National Road Championships - Azerbaijan
+Men Elite	CN - National Championships	Kazakhstan	22 Jun - 26 Jun 2022	National Road Championships - Kazakhstan
+Men Elite	CN - National Championships	Japan	22 Jun - 26 Jun 2022	National Road Championships - Japan
+Men Elite	CN - National Championships	Hungary	22 Jun - 26 Jun 2022	National Road Championships - Hungary
+Men Junior	CN - National Championships	Italy	22 Jun - 26 Jun 2022	National Road Championships - Italy
+Men Elite	CN - National Championships	Czech Republic	23 Jun - 26 Jun 2022	National Road Championships - Czech Republic
+Men Elite	CN - National Championships	Slovakia	23 Jun - 26 Jun 2022	National Road Championships - Slovakia
+Men Elite	CN - National Championships	Belarus	23 Jun - 26 Jun 2022	National Road Championships - Belarus
+Men Elite	CN - National Championships	Canada	23 Jun - 26 Jun 2022	National Road Championships - Canada
+Men Elite	CN - National Championships	Ireland	23 Jun - 26 Jun 2022	National Road Championships - Ireland
+Men Elite	CN - National Championships	Denmark	23 Jun - 26 Jun 2022	National Road Championships - Denmark
+Men Elite	CN - National Championships	France	23 Jun - 26 Jun 2022	National Road Championships - France
+Men Elite	CN - National Championships	Belgium	23 Jun - 26 Jun 2022	National Road Championships - Belgium
+Men Elite	CN - National Championships	Greece	24 Jun - 26 Jun 2022	National Road Championships - Greece
+Men Elite	CN - National Championships	Macedonia, FYRO	24 Jun - 26 Jun 2022	National Road Championships - Macedonia
+Men Elite	CN - National Championships	Luxembourg	24 Jun - 26 Jun 2022	National Road Championships - Luxembourg
+Men Elite	CN - National Championships	Croatia	24 Jun - 26 Jun 2022	National Road Championships - Croatia
+Men Elite	CN - National Championships	Germany	24 Jun - 26 Jun 2022	National Road Championships - Germany
+Men Elite	CN - National Championships	Guatemala	24 Jun - 26 Jun 2022	National Road Championships - Guatemala
+Men Elite	CN - National Championships	Eritrea	24 Jun - 26 Jun 2022	National Road Championships - Eritrea
+Men Elite	CN - National Championships	Austria	24 Jun - 26 Jun 2022	National Road Championships - Austria
+Men Elite	CN - National Championships	Eritrea	24 Jun - 26 Jun 2022	National Road Championships - Thailand
+Men Junior	2.1 - Stages - Class 1	Netherlands	24 Jun - 26 Jun 2022	BESTRONICS Acht van Bladel
+Men Elite	CN - National Championships	Mali	25-Jun-22	National Road Championships - Mali
+Men Elite	CN - National Championships	Grenada	25 Jun - 26 Jun 2022	National Road Championships - Grenada
+Men Elite	CN - National Championships	Puerto Rico	25 Jun - 26 Jun 2022	National Road Championships - Puerto Rico
+Men Elite	CN - National Championships	Antigua and Barbuda	25 Jun - 26 Jun 2022	National Road Championships - Antigua and Barbuda
+Men Elite	CN - National Championships	Aruba	25 Jun - 26 Jun 2022	National Road Championships - Aruba
+Men Elite	CN - National Championships	Barbados	25 Jun - 26 Jun 2022	National Road Championships - Barbados
+Men Elite	CN - National Championships	Malaysia	25 Jun - 26 Jun 2022	National Road Championships - Malaysia
+Men Elite	CN - National Championships	Georgia	25 Jun - 26 Jun 2022	National Road Championships - Georgia
+Men Elite	CN - National Championships	Bulgaria	25 Jun - 26 Jun 2022	National Road Championships - Bulgaria
+Men Elite	CN - National Championships	Côte d’Ivoire	26-Jun-22	National Road Championships - Ivory Coast
+Men Elite	CN - National Championships	Swaziland	26-Jun-22	National Road Championships - Eswatini
+Women Elite	2.1 - Stages - Class 1	Belgium	28 Jun - 01 Jul 2022	Lotto Belgium Tour
+Men Elite	2.2 - Stages - Class 2	Poland	29 Jun - 02 Jul 2022	Course Cycliste de Solidarnosc et des Champions Olympiques
+Women Elite	2.2 - Stages - Class 2	Czech Republic	30 Jun - 03 Jul 2022	Tour de Feminin
+Men Elite	2.2 - Stages - Class 2	Portugal	30 Jun - 03 Jul 2022	GP Internacional Torres Vedras - Trofeu Joaquim Agostinho
+Women Elite	2.WWT - Stages - UCI Women’s WorldTour	Italy	01 Jul - 10 Jul 2022	Giro d'Italia Donne
+Men Elite	2.UWT - Stages - UCI WorldTour	France	01 Jul - 24 Jul 2022	Tour de France
+Men Junior	1.1 - 1 day - Class 1	Luxembourg	2-Jul-22	GP Général Patton
+Men Junior	2.1 - Stages - Class 1	Serbia	02 Jul - 03 Jul 2022	Olympic Hopes - Belgrade Trophy Milan Panić
+Men Elite	2.1 - Stages - Class 1	Romania	02 Jul - 06 Jul 2022	Sibiu Cycling Tour
+Men Elite	2.1 - Stages - Class 1	Austria	02 Jul - 07 Jul 2022	Int. Österreich-Rundfahrt - Tour of Austria
+Men Junior	1.1 - 1 day - Class 1	Luxembourg	3-Jul-22	GP Luxembourg
+Men Elite	1.2 - 1 day - Class 2	Belgium	3-Jul-22	Grote Prijs Rik Van Looy
+Men Elite	1.2 - 1 day - Class 2	Italy	3-Jul-22	Giro del Medio Brenta
+Men Under 23	CN - National Championships	Luxembourg	3-Jul-22	National Road Championships - Luxembourg (U23)
+Men Elite	CN - National Championships	Singapore	3-Jul-22	National Road Championships - Singapore (ITT)
+Men Junior	CN - National Championships	Italy	3-Jul-22	National Road Championships - Italy (MJ - IRR)
+Men Elite	1.2 - 1 day - Class 2	Italy	5-Jul-22	Trofeo Città di Brescia
+Men Junior	2.1 - Stages - Class 1	Belgium	07 Jul - 10 Jul 2022	Sint Martinusprijs Kontich
+Men Elite	1.2 - 1 day - Class 2	United States	8-Jul-22	Chrono Kristin Armstrong
+Women Elite	1.2 - 1 day - Class 2	United States	8-Jul-22	Chrono Kristin Armstrong
+Men Junior	1.1 - 1 day - Class 1	United States	8-Jul-22	Chrono Kristin Armstrong
+Women Junior	1.1 - 1 day - Class 1	United States	8-Jul-22	Chrono Kristin Armstrong
+Men Elite	1.2 - 1 day - Class 2	Czech Republic	9-Jul-22	Visegrad 4 Bicycle Race - GP Czech Republic
+Women Elite	1.1 - 1 day - Class 1	Belgium	10-Jul-22	Districtenpijl - Ekeren-Deurne
+Men Junior	1.1 - 1 day - Class 1	Belgium	10-Jul-22	Menen Kemmel Menen
+Men Elite	1.2 - 1 day - Class 2	Belgium	10-Jul-22	Districtenpijl - Ekeren-Deurne
+Men Elite	1.1 - 1 day - Class 1	Switzerland	10-Jul-22	Axion SWISS Bank Gran Premio Città di Lugano
+Men Elite	1.2 - 1 day - Class 2	Canada	10-Jul-22	Delta Road Race
+Men Elite	1.2 - 1 day - Class 2	Poland	10-Jul-22	Visegrad 4 Bicycle Race Grand Prix Poland
+Men Elite	1.2 - 1 day - Class 2	France	10-Jul-22	Grand Prix International de la ville de Nogent-sur-Oise
+Men Elite	2.Pro - Stages - ProSeries	China	10 Jul - 17 Jul 2022	Tour of Qinghai Lake
+Men Junior	2.Ncup - Stages - Class Nations' Cup	Canada	12 Jul - 17 Jul 2022	Tour de l'Abitibi
+Men Under 23	2.2U - Stages - Class 2 - U23	Italy	12 Jul - 17 Jul 2022	Giro Ciclistico della Valle d'Aosta - Mont Blanc
+Men Elite	2.1 - Stages - Class 1	Italy	13 Jul - 17 Jul 2022	Settimana Ciclistica Italiana
+Men Junior	2.1 - Stages - Class 1	France	13 Jul - 17 Jul 2022	Ain Bugey Valromey Tour
+Women Elite	2.1 - Stages - Class 1	Belgium	13 Jul - 17 Jul 2022	Baloise Ladies Tour
+Women Elite	2.2 - Stages - Class 2	Costa Rica	14 Jul - 17 Jul 2022	Vuelta Internacional Femenina a Costa Rica
+Men Junior	2.1 - Stages - Class 1	Slovakia	15 Jul - 17 Jul 2022	Medzinárodné dni cyklistiky Dubnica nad Váhom
+Men Elite	1.1 - 1 day - Class 1	Netherlands	16-Jul-22	Slag om Norg
+Men Elite	1.2 - 1 day - Class 2	Turkey	16-Jul-22	Grand Prix Germenica
+Men Elite	CN - National Championships	Singapore	17-Jul-22	National Road Championships - Singapore (IRR)
+Men Elite	1.2 - 1 day - Class 2	Turkey	17-Jul-22	Grand Prix Kahramanmaras
+Men Elite	1.1 - 1 day - Class 1	Belgium	18-Jul-22	Grand Prix Cerami
+Men Junior	2.1 - Stages - Class 1	Austria	22 Jul - 24 Jul 2022	Junioren Rundfahrt
+Women Elite	1.2 - 1 day - Class 2	Slovakia	23-Jul-22	GP SLOVAKIA
+Men Elite	1.2 - 1 day - Class 2	Hungary	23-Jul-22	Visegrad 4 Kerekparverseny
+Women Elite	1.2 - 1 day - Class 2	Hungary	24-Jul-22	Visegrad 4 Ladies Series - Hungary
+Men Elite	1.2 - 1 day - Class 2	Slovenia	24-Jul-22	GP Kranj
+Men Elite	1.2 - 1 day - Class 2	Slovakia	24-Jul-22	Visegrad 4 Bicycle Race - GP Slovakia
+Men Elite	1.2 - 1 day - Class 2	France	24-Jul-22	Grand Prix de la ville de Pérenchies
+Women Elite	2.WWT - Stages - UCI Women’s WorldTour	France	24 Jul - 31 Jul 2022	Tour de France Femmes avec Zwift
+Men Elite	1.1 - 1 day - Class 1	Spain	25-Jul-22	Prueba Villafranca - Ordiziako Klasika
+Men Elite	CN - National Championships	Angola	25 Jul - 26 Jul 2022	National Road Championships - Angola
+Men Elite	2.Pro - Stages - ProSeries	United States	25 Jul - 31 Jul 2022	The Larry H.Miller Tour of Utah
+Men Elite	CRTP - Pro Criterium	France	26-Jul-22	Criterium d'après Tour de France
+Men Elite	2.2 - Stages - Class 2	Poland	26 Jul - 30 Jul 2022	Dookoła Mazowsza
+Men Junior	1.1 - 1 day - Class 1	Belgium	27-Jul-22	Trofee van Vlaanderen
+Men Elite	CRTP - Pro Criterium	France	27-Jul-22	Ronde des Korrigans
+Men Elite	2.1 - Stages - Class 1	Spain	27 Jul - 28 Jul 2022	Vuelta a Castilla y Leon
+Men Elite	2.2 - Stages - Class 2	France	27 Jul - 31 Jul 2022	Tour d'ALSACE
+Men Elite	2.2 - Stages - Class 2	Venezuela	27 Jul - 31 Jul 2022	Vuelta Ciclista a Miranda
+Men Elite	CRTP - Pro Criterium	Netherlands	28-Jul-22	Profronde Westland
+Women Elite	2.2 - Stages - Class 2	Poland	29 Jul - 31 Jul 2022	Anna Vasa Race
+Men Junior	2.Ncup - Stages - Class Nations' Cup	Netherlands	29 Jul - 31 Jul 2022	Watersley Junior Challenge
+Men Elite	2.2 - Stages - Class 2	France	29 Jul - 01 Aug 2022	Kreiz Breizh Elites
+Women Elite	1.2 - 1 day - Class 2	Sweden	30-Jul-22	Hansa Bygg Grand Prix Kalmar
+Men Elite	CRTP - Pro Criterium	France	30-Jul-22	Criterium Cycliste International du Grand Dole Colruyt
+Men Elite	1.UWT - 1 day - UCI WorldTour	Spain	30-Jul-22	Donostia San Sebastian Klasikoa
+Men Elite	2.UWT - Stages - UCI WorldTour	Poland	30 Jul - 05 Aug 2022	Tour de Pologne
+Men Elite	CRTP - Pro Criterium	France	31-Jul-22	Ronde d'Aix
+Men Elite	CRTP - Pro Criterium	France	31-Jul-22	CRITO'STAR
+Men Elite	1.1 - 1 day - Class 1	Spain	31-Jul-22	Circuito de Getxo - Memorial Hermanos Otxoa
+Men Elite	1.2 - 1 day - Class 2	Poland	31-Jul-22	Puchar MON
+Women Elite	1.2 - 1 day - Class 2	Turkey	31-Jul-22	Grand Prix Yahyalı
+Men Elite	CRTP - Pro Criterium	France	2-Aug-22	Critérium Cycliste International de Castillon-la-Bataille
+Women Elite	2.2 - Stages - Class 2	Sweden	02 Aug - 04 Aug 2022	Tour of Uppsala
+Men Elite	2.Pro - Stages - ProSeries	Spain	02 Aug - 06 Aug 2022	Vuelta a Burgos
+Men Elite	2.2 - Stages - Class 2	France	03 Aug - 06 Aug 2022	Le Tour de Savoie Mont Blanc
+Men Junior	CN - National Championships	France	03 Aug - 07 Aug 2022	National Road Championships - France
+Men Elite	2.2 - Stages - Class 2	Turkey	04 Aug - 07 Aug 2022	Tour of Sakarya
+Men Elite	2.Pro - Stages - ProSeries	Norway	04 Aug - 07 Aug 2022	Arctic Race of Norway
+Men Elite	2.1 - Stages - Class 1	Czech Republic	04 Aug - 07 Aug 2022	Sazka Tour
+Men Elite	2.1 - Stages - Class 1	Portugal	04 Aug - 15 Aug 2022	Volta a Portugal em Bicicleta
+Men Junior	2.1 - Stages - Class 1	Belgium	05 Aug - 07 Aug 2022	Aubel-Thimister-Stavelot
+Women Elite	2.2 - Stages - Class 2	France	05 Aug - 07 Aug 2022	CIC-Tour Féminin International des Pyrénées
+Men Elite	2.2 - Stages - Class 2	France	05 Aug - 14 Aug 2022	Tour Cycliste International de la Guadeloupe
+Men Elite	CRTP - Pro Criterium	France	6-Aug-22	Criterium Cycliste Professionnel Dun Le Palestel
+Men Elite	1.2 - 1 day - Class 2	Sweden	6-Aug-22	Scandinavian Race in Uppsala 1909-2022
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	Sweden	6-Aug-22	Postnord Vårgårda WestSweden TTT
+Men Junior	2.1 - Stages - Class 1	Serbia	06 Aug - 07 Aug 2022	Belgrade Trophy
+Men Elite	CRTP - Pro Criterium	Netherlands	7-Aug-22	Wielerweekend Moerdijk
+Women Elite	CRTP - Pro Criterium	Netherlands	7-Aug-22	Wielerweekend Moerdijk
+Men Elite	CRTP - Pro Criterium	France	7-Aug-22	Criterium Cycliste International Vayrac
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	Sweden	7-Aug-22	Postnord Vårgårda WestSweden RR
+Men Elite	2.1 - Stages - Class 1	France	09 Aug - 11 Aug 2022	Tour de l'Ain
+Women Elite	2.2 - Stages - Class 2	Colombia	09 Aug - 14 Aug 2022	Vuelta a Colombia Femenina
+Women Elite	2.WWT - Stages - UCI Women’s WorldTour	Norway	09 Aug - 14 Aug 2022	Battle of the North
+Men Elite	2.2 - Stages - Class 2	Romania	10 Aug - 13 Aug 2022	Tour of Szeklerland
+Women Elite	1.2 - 1 day - Class 2	France	13-Aug-22	La Périgord Ladies
+Men Junior	2.1 - Stages - Class 1	France	13 Aug - 14 Aug 2022	La Ronde Des Vallées
+Men Elite	1.1 - 1 day - Class 1	France	14-Aug-22	La Polynormande
+Women Elite	1.2 - 1 day - Class 2	France	14-Aug-22	La Picto - Charentaise
+Men Under 23	1.2U - 1 day - Class 2 - U23	Italy	14-Aug-22	Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni
+Men Elite	CRTP - Pro Criterium	France	14-Aug-22	Criterium Cycliste International de Quillan
+Men Under 23	1.2U - 1 day - Class 2 - U23	Italy	16-Aug-22	Gp Capodarco Comunita Di Capodarco
+Men Elite	CRTP - Pro Criterium	Netherlands	16-Aug-22	Valstar Wielerspektakel Naaldwijk
+Men Elite	2.1 - Stages - Class 1	France	16 Aug - 19 Aug 2022	Tour du Limousin - Nouvelle Aquitaine
+Men Elite	2.Pro - Stages - ProSeries	Denmark	16 Aug - 20 Aug 2022	PostNord Danmark Rundt - Tour of Denmark
+Men Junior	2.1 - Stages - Class 1	Spain	18 Aug - 21 Aug 2022	Vuelta Junior a la Ribera del Duero
+Men Elite	2.2 - Stages - Class 2	Estonia	18 Aug - 21 Aug 2022	Baltic Chain Tour
+Men Under 23	2.Ncup - Stages - Class Nations' Cup	France	18 Aug - 28 Aug 2022	Tour de l'Avenir
+Men Elite	1.2 - 1 day - Class 2	Turkey	19-Aug-22	Grand Prix Kapuzbaşı
+Men Junior	2.Ncup - Stages - Class Nations' Cup	Hungary	19 Aug - 21 Aug 2022	One Belt One Road Nation's Cup Hungary
+Men Elite	2.UWT - Stages - UCI WorldTour	Spain	19 Aug - 11 Sep 2022	La Vuelta ciclista a España
+Men Elite	CN - National Championships	Albania	20 Aug - 22 Aug 2022	National Road Championships - Albania
+Men Elite	2.2 - Stages - Class 2	China	20 Aug - 24 Aug 2022	Trans-Himalaya Cycling Race
+Men Elite	1.1 - 1 day - Class 1	Belgium	21-Aug-22	Schaal Sels Merksem/ Johan Museeuw Classic
+Women Elite	1.1 - 1 day - Class 1	Belgium	21-Aug-22	MerXem Classic
+Men Elite	1.2 - 1 day - Class 2	Turkey	21-Aug-22	Grand Prix Cappadocia
+Men Elite	1.2 - 1 day - Class 2	Poland	21-Aug-22	Memorial Henryka Łasaka
+Men Elite	1.UWT - 1 day - UCI WorldTour	Germany	21-Aug-22	BEMER Cyclassics
+Men Elite	1.2 - 1 day - Class 2	Poland	22-Aug-22	Puchar Uzdrowisk Karpackich
+Men Elite	1.2 - 1 day - Class 2	Turkey	23-Aug-22	Grand Prix Develi
+Men Elite	1.1 - 1 day - Class 1	Belgium	23-Aug-22	Egmont Cycling Race
+Men Elite	2.1 - Stages - Class 1	France	23 Aug - 26 Aug 2022	Tour Poitou - Charentes en Nouvelle Aquitaine
+Men Elite	1.1 - 1 day - Class 1	Belgium	24-Aug-22	Druivenkoers - Overijse
+Men Elite	2.Pro - Stages - ProSeries	Germany	24 Aug - 28 Aug 2022	Deutschland Tour
+Women Elite	1.1 - 1 day - Class 1	France	25-Aug-22	Kreiz Breizh Elites Féminin
+Men Elite	CRTP - Pro Criterium	France	26-Aug-22	Prix Jean Renaux
+Women Elite	2.2 - Stages - Class 2	Italy	26 Aug - 28 Aug 2022	Premondiale Giro Toscana Int. Femminile - Memorial Michela Fanini
+Men Junior	2.Ncup - Stages - Class Nations' Cup	Korea	26 Aug - 30 Aug 2022	Tour de DMZ
+Men Junior	1.1 - 1 day - Class 1	Italy	27-Aug-22	Trofeo Comune di Vertova - Memorial Pietro Merelli
+Men Elite	1.2 - 1 day - Class 2	Denmark	27-Aug-22	GP Himmerland Rundt
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	France	27-Aug-22	GP Lorient Agglomération - Trophée CERATIZIT
+Women Junior	2.Ncup - Stages - Class Nations' Cup	Spain	27 Aug - 28 Aug 2022	Bizkaikoloreak 
+Men Elite	2.1 - Stages - Class 1	Kazakhstan	27 Aug - 28 Aug 2022	Tour of Almaty
+Men Elite	2.2 - Stages - Class 2	Bulgaria	27 Aug - 01 Sep 2022	Tour of Bulgaria
+Men Elite	1.2 - 1 day - Class 2	Denmark	28-Aug-22	RENT LIV Løbet Skive
+Men Junior	1.1 - 1 day - Class 1	Belgium	28-Aug-22	La Route des Géants - Saint-Omer - Ieper
+Women Elite	1.2 - 1 day - Class 2	Belgium	28-Aug-22	La Route des Géantes - Saint-Omer - Ieper
+Men Elite	1.2 - 1 day - Class 2	Netherlands	28-Aug-22	Ronde van de Achterhoek
+Men Junior	1.1 - 1 day - Class 1	Italy	28-Aug-22	Trofeo Emilio Paganessi
+Men Elite	1.2 - 1 day - Class 2	Slovenia	28-Aug-22	CROATIA - SLOVENIA
+Men Under 23	CN - National Championships	Belgium	28-Aug-22	National Road Championships - Belgium (MU23 - IRR)
+Men Elite	1.UWT - 1 day - UCI WorldTour	France	28-Aug-22	Bretagne Classic - Ouest-France
+Men Elite	CRTP - Pro Criterium	France	29-Aug-22	Guidon d'Or Hellemois
+Women Elite	2.WWT - Stages - UCI Women’s WorldTour	Netherlands	30 Aug - 04 Sep 2022	Simac Ladies Tour
+Men Elite	2.2 - Stages - Class 2	Turkey	31 Aug - 04 Sep 2022	Tour of Silk Road - Hero Cities
+Men Under 23	2.2U - Stages - Class 2 - U23	Belgium	01 Sep - 03 Sep 2022	Flanders Tomorrow Tour
+Men Junior	2.1 - Stages - Class 1	Italy	01 Sep - 04 Sep 2022	Giro Della Lunigiana
+Men Elite	2.2 - Stages - Class 2	Italy	01 Sep - 04 Sep 2022	Giro della Regione Friuli Venezia Giulia
+Men Junior	2.1 - Stages - Class 1	Switzerland	02 Sep - 04 Sep 2022	Grand Prix Rüebliland
+Men Elite	1.Pro - 1 day - ProSeries	Belgium	3-Sep-22	Eurométropole Tour
+Men Elite	1.2 - 1 day - Class 2	Norway	3-Sep-22	Lillehammer GP
+Men Elite	2.2 - Stages - Class 2	Bulgaria	03 Sep - 04 Sep 2022	In the footsteps of the Romans
+Men Elite	2.2 - Stages - Class 2	Antigua and Barbuda	03 Sep - 04 Sep 2022	Subway 3 - Stage Race
+Men Elite	2.2 - Stages - Class 2	Indonesia	03 Sep - 07 Sep 2022	Tour de Singkarak
+Men Elite	1.Pro - 1 day - ProSeries	United States	4-Sep-22	Maryland Cycling Classic, presented by UnitedHealthcare
+Women Elite	1.1 - 1 day - Class 1	Belgium	4-Sep-22	Grote prijs Beerens
+Men Elite	1.2 - 1 day - Class 2	Norway	4-Sep-22	Gylne Gutuer
+Men Elite	1.1 - 1 day - Class 1	France	4-Sep-22	Tour du Doubs
+Men Elite	2.Pro - Stages - ProSeries	United Kingdom	04 Sep - 11 Sep 2022	Tour of Britain
+Men Elite	2.1 - Stages - Class 1	Romania	06 Sep - 11 Sep 2022	Turul Romaniei
+Women Elite	2.1 - Stages - Class 1	France	06 Sep - 12 Sep 2022	Tour Cycliste Féminin International de l'Ardèche
+Men Elite	2.2 - Stages - Class 2	Turkey	07 Sep - 11 Sep 2022	Tour of Mesopotamia
+Men Elite	2.2 - Stages - Class 2	Czech Republic	08 Sep - 11 Sep 2022	Okolo jižních Čech / Tour of South Bohemia
+Women Elite	2.WWT - Stages - UCI Women’s WorldTour	Spain	08 Sep - 11 Sep 2022	Ceratizit Challenge by La Vuelta
+Men Elite	1.UWT - 1 day - UCI WorldTour	Canada	9-Sep-22	Grand Prix Cycliste de Québec
+Men Elite	2.2 - Stages - Class 2	Japan	09 Sep - 11 Sep 2022	Tour de Hokkaido
+Women Under 23	2.2 - Stages - Class 2	Netherlands	09 Sep - 11 Sep 2022	Watersley Womens Challenge
+Women Junior	2.Ncup - Stages - Class Nations' Cup	Netherlands	09 Sep - 11 Sep 2022	Watersley Ladies Challenge
+Men Elite	1.2 - 1 day - Class 2	France	10-Sep-22	A Travers les Hauts de France
+Women Elite	1.2 - 1 day - Class 2	France	11-Sep-22	La Choralis Fourmies Féminine
+Men Elite	1.Pro - 1 day - ProSeries	France	11-Sep-22	GP de Fourmies / La Voix du Nord
+Men Junior	1.1 - 1 day - Class 1	Italy	11-Sep-22	Trofeo Buffoni
+Men Elite	1.1 - 1 day - Class 1	Belgium	11-Sep-22	Antwerp Port Epic / Sels Trophy
+Men Elite	1.2 - 1 day - Class 2	France	11-Sep-22	Grand Prix de la Somme Conseil Départemental 80
+Men Elite	1.UWT - 1 day - UCI WorldTour	Canada	11-Sep-22	Grand Prix Cycliste de Montréal
+Men Elite	2.Pro - Stages - ProSeries	Luxembourg	13 Sep - 17 Sep 2022	Skoda Tour Luxembourg
+Men Elite	2.1 - Stages - Class 1	Slovakia	13 Sep - 17 Sep 2022	Okolo Slovenska / Tour de Slovaquie
+Men Elite	1.Pro - 1 day - ProSeries	Belgium	14-Sep-22	Grand Prix de Wallonie
+Men Elite	1.1 - 1 day - Class 1	Italy	14-Sep-22	Giro della Toscana - Memorial Alfredo Martini
+Men Junior	2.1 - Stages - Class 1	Italy	14 Sep - 17 Sep 2022	Giro di Basilicata
+Men Elite	1.Pro - 1 day - ProSeries	Italy	15-Sep-22	Coppa Sabatini - Gran Premio città di Peccioli
+Men Elite	2.2 - Stages - Class 2	China	15 Sep - 17 Sep 2022	Tour of Xingtai
+Men Elite	1.1 - 1 day - Class 1	Belgium	16-Sep-22	Kampioenschap van Vlaanderen
+Women Elite	2.2 - Stages - Class 2	Belgium	16 Sep - 17 Sep 2022	AG TOUR DE LA SEMOIS
+Men Elite	1.Pro - 1 day - ProSeries	Belgium	17-Sep-22	Primus Classic
+Men Elite	1.1 - 1 day - Class 1	Italy	17-Sep-22	Memorial Marco Pantani
+Men Junior	2.1 - Stages - Class 1	Belgium	17 Sep - 18 Sep 2022	Keizer der Juniores
+Men Elite	1.1 - 1 day - Class 1	Belgium	18-Sep-22	Gooikse Pijl
+Men Elite	1.1 - 1 day - Class 1	Italy	18-Sep-22	Trofeo Matteotti
+Men Elite	1.1 - 1 day - Class 1	France	18-Sep-22	Grand Prix d'Isbergues - Pas de Calais
+Women Elite	1.2 - 1 day - Class 2	France	18-Sep-22	Grand Prix International d'Isbergues - Pas de Calais Féminin
+Men Elite	1.1 - 1 day - Class 1	Belgium	21-Sep-22	Omloop van het Houtland Middelkerke-Lichtervelde
+Men Elite	CN - National Championships	Paraguay	23 Sep - 25 Sep 2022	National Road Championships - Paraguay
+Men Elite	1.1 - 1 day - Class 1	France	25-Sep-22	Classique Paris-Chauny
+Men Under 23	1.2U - 1 day - Class 2 - U23	Italy	27-Sep-22	Ruota d'Oro - GP Festa del Perdono
+Men Elite	2.1 - Stages - Class 1	Croatia	27 Sep - 02 Oct 2022	Cro Race
+Men Under 23	2.2U - Stages - Class 2 - U23	France	28 Sep - 02 Oct 2022	Ronde de l'Isard
+Men Elite	CRTP - Pro Criterium	Japan	1-Oct-22	Oita Ikoinomichi Criterium
+Men Elite	1.Pro - 1 day - ProSeries	Italy	1-Oct-22	Giro dell'Emilia
+Women Elite	1.Pro - 1 day - ProSeries	Italy	1-Oct-22	Giro dell'Emilia Internazionale Donne Elite
+Men Elite	2.2 - Stages - Class 2	Montenegro	01 Oct - 03 Oct 2022	Tour of Montenegro
+Men Under 23	1.2U - 1 day - Class 2 - U23	Italy	2-Oct-22	Il Piccolo Lombardia
+Men Elite	1.1 - 1 day - Class 1	Italy	2-Oct-22	Gran Premio Bruno Beghelli
+Men Elite	1.1 - 1 day - Class 1	France	2-Oct-22	Tour de Vendée
+Men Elite	1.2 - 1 day - Class 2	Japan	2-Oct-22	Oita Urban Classic
+Men Elite	1.1 - 1 day - Class 1	Belgium	2-Oct-22	Famenne Ardenne Classic
+Men Elite	1.Pro - 1 day - ProSeries	Germany	3-Oct-22	Sparkassen Münsterland Giro
+Men Elite	1.Pro - 1 day - ProSeries	Italy	3-Oct-22	Coppa Bernocchi - GP BPM
+Men Elite	1.1 - 1 day - Class 1	Belgium	4-Oct-22	Binche -  Chimay - Binche / Mémorial Frank Vandenbroucke
+Women Elite	1.1 - 1 day - Class 1	Belgium	4-Oct-22	Binche Chimay Binche pour Dames
+Women Elite	1.1 - 1 day - Class 1	Italy	4-Oct-22	Tre Valli Varesine Women's Race
+Men Elite	1.Pro - 1 day - ProSeries	Italy	4-Oct-22	Tre Valli Varesine
+Men Elite	2.2 - Stages - Class 2	Syria	04 Oct - 08 Oct 2022	International Syrian Tour
+Women Elite	2.2 - Stages - Class 2	Syria	04 Oct - 08 Oct 2022	International Syrian Tour
+Men Elite	2.2 - Stages - Class 2	China	05 Oct - 06 Oct 2022	Tour of Binzhou
+Men Elite	1.Pro - 1 day - ProSeries	Italy	6-Oct-22	Gran Piemonte
+Men Elite	1.1 - 1 day - Class 1	France	6-Oct-22	Paris - Bourges
+Women Elite	2.WWT - Stages - UCI Women’s WorldTour	Switzerland	07 Oct - 09 Oct 2022	Tour de Romandie
+Men Elite	1.UWT - 1 day - UCI WorldTour	Italy	8-Oct-22	Il Lombardia
+Men Junior	2.1 - Stages - Class 1	Belgium	08 Oct - 09 Oct 2022	La Philippe Gilbert juniors
+Men Elite	2.Pro - Stages - ProSeries	China	08 Oct - 11 Oct 2022	Tour of Taihu Lake
+Men Elite	1.1 - 1 day - Class 1	Belgium	9-Oct-22	Memorial Rik Van Steenbergen / Kempen Classic
+Men Under 23	1.2U - 1 day - Class 2 - U23	France	9-Oct-22	Paris - Tours Espoirs 
+Men Elite	1.Pro - 1 day - ProSeries	France	9-Oct-22	Paris - Tours Elite
+Men Elite	1.1 - 1 day - Class 1	Italy	10-Oct-22	Coppa Agostoni - Giro delle Brianze
+Women Elite	2.2 - Stages - Class 2	China	10 Oct - 11 Oct 2022	Tour of Wenzhou Women's International Road Race
+Men Elite	1.1 - 1 day - Class 1	Italy	12-Oct-22	Giro del Veneto
+Women Elite	2.WWT - Stages - UCI Women’s WorldTour	China	13 Oct - 15 Oct 2022	Tour of Chongming Island
+Men Elite	2.UWT - Stages - UCI WorldTour	China	13 Oct - 18 Oct 2022	Gree-Tour of Guangxi
+Men Elite	CRTP - Pro Criterium	Japan	15-Oct-22	Japan Cup Criterium
+Men Under 23	1.2U - 1 day - Class 2 - U23	France	16-Oct-22	Chrono des Nations
+Men Junior	1.1 - 1 day - Class 1	France	16-Oct-22	Chrono des Nations
+Women Elite	1.1 - 1 day - Class 1	France	16-Oct-22	Chrono des Nations
+Women Junior	1.1 - 1 day - Class 1	France	16-Oct-22	Chrono des Nations
+Men Elite	1.1 - 1 day - Class 1	Italy	16-Oct-22	Veneto Classic
+Men Elite	1.1 - 1 day - Class 1	France	16-Oct-22	Chrono des Nations
+Men Elite	1.Pro - 1 day - ProSeries	Japan	16-Oct-22	Japan Cup Cycle Road Race
+Women Elite	1.WWT - 1 day - UCI Women’s WorldTour	China	18-Oct-22	Tour of Guangxi
